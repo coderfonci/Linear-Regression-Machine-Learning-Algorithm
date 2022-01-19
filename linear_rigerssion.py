@@ -134,4 +134,4 @@ print("Regression Line", reg_line)
 R = corr_coef(X, y)
 print('Correlation Coefe. :', R)
 print('"Good of score" : ', R**2)
-
+print("ok bye")
