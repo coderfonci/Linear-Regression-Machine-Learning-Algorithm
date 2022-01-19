@@ -1,3 +1,5 @@
+# in this code we use sklearn LinearRegression  or Linear Regression Using Python with scratch
+
 # -*- coding: utf-8 -*-
 """Linear_Rigerssion.ipynb
 
